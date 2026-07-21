@@ -9,6 +9,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3701-compute-alternating-sum](https://github.com/Sneha-0409/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sneha-0409/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 ## Matrix
 |  |
@@ -32,6 +33,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 ## String
 |  |
 | ------- |
@@ -59,4 +61,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sneha-0409/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
+## Hash Table
+|  |
+| ------- |
+| [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 <!---LeetCode Topics End-->
