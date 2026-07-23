@@ -20,6 +20,7 @@
 | [3701-compute-alternating-sum](https://github.com/Sneha-0409/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sneha-0409/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sneha-0409/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Matrix
 |  |
 | ------- |
@@ -37,6 +38,7 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sneha-0409/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
 | ------- |
