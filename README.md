@@ -12,6 +12,7 @@
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sneha-0409/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sneha-0409/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3668-restore-finishing-order](https://github.com/Sneha-0409/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Sneha-0409/Leetcode/tree/master/3701-compute-alternating-sum) |
 | [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
@@ -60,6 +61,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sneha-0409/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sneha-0409/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 ## Greedy
 |  |
 | ------- |
@@ -89,4 +91,8 @@
 |  |
 | ------- |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-0409/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+## Bit Manipulation
+|  |
+| ------- |
+| [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 <!---LeetCode Topics End-->
