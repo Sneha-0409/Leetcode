@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sneha-0409/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -90,6 +91,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [3668-restore-finishing-order](https://github.com/Sneha-0409/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
