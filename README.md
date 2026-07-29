@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
+| [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
@@ -29,11 +30,13 @@
 ## Matrix
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Sneha-0409/Leetcode/tree/master/1672-richest-customer-wealth) |
 ## Simulation
 |  |
 | ------- |
+| [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sneha-0409/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Sneha-0409/Leetcode/tree/master/1920-build-array-from-permutation) |
