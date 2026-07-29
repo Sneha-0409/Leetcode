@@ -67,6 +67,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sneha-0409/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sneha-0409/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Stack
 |  |
 | ------- |
@@ -80,6 +81,7 @@
 | [3512-minimum-operations-to-make-array-sum-divisible-by-k](https://github.com/Sneha-0409/Leetcode/tree/master/3512-minimum-operations-to-make-array-sum-divisible-by-k) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3536-maximum-product-of-two-digits](https://github.com/Sneha-0409/Leetcode/tree/master/3536-maximum-product-of-two-digits) |
 ## Greedy
 |  |
@@ -99,6 +101,7 @@
 | ------- |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 | [3668-restore-finishing-order](https://github.com/Sneha-0409/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 ## Heap (Priority Queue)
@@ -110,6 +113,7 @@
 | ------- |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sneha-0409/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -120,4 +124,8 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+## Combinatorics
+|  |
+| ------- |
+| [3518-smallest-palindromic-rearrangement-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3518-smallest-palindromic-rearrangement-ii) |
 <!---LeetCode Topics End-->
