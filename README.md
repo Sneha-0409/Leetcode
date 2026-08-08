@@ -50,6 +50,7 @@
 |  |
 | ------- |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sneha-0409/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
 ## Binary Search
 |  |
@@ -75,6 +76,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sneha-0409/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 | [3499-maximize-active-section-with-trade-i](https://github.com/Sneha-0409/Leetcode/tree/master/3499-maximize-active-section-with-trade-i) |
 | [3517-smallest-palindromic-rearrangement-i](https://github.com/Sneha-0409/Leetcode/tree/master/3517-smallest-palindromic-rearrangement-i) |
@@ -107,6 +109,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sneha-0409/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3348-smallest-divisible-digit-product-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3348-smallest-divisible-digit-product-ii) |
 ## String Matching
 |  |
@@ -158,6 +161,7 @@
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
+| [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
 | ------- |
