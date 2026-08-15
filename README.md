@@ -32,6 +32,7 @@
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
 | [3668-restore-finishing-order](https://github.com/Sneha-0409/Leetcode/tree/master/3668-restore-finishing-order) |
 | [3701-compute-alternating-sum](https://github.com/Sneha-0409/Leetcode/tree/master/3701-compute-alternating-sum) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sneha-0409/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 | [3731-find-missing-elements](https://github.com/Sneha-0409/Leetcode/tree/master/3731-find-missing-elements) |
 | [3925-concatenate-array-with-reverse](https://github.com/Sneha-0409/Leetcode/tree/master/3925-concatenate-array-with-reverse) |
 | [3936-minimum-swaps-to-move-zeros-to-end](https://github.com/Sneha-0409/Leetcode/tree/master/3936-minimum-swaps-to-move-zeros-to-end) |
@@ -164,6 +165,7 @@
 | ------- |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
+| [3702-longest-subsequence-with-non-zero-bitwise-xor](https://github.com/Sneha-0409/Leetcode/tree/master/3702-longest-subsequence-with-non-zero-bitwise-xor) |
 ## Combinatorics
 |  |
 | ------- |
