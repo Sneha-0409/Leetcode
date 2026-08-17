@@ -15,7 +15,7 @@ public:
                 ans = max(ans, rightSum + solve(m + 1, r));
             else
                 ans = max(ans,
-                          leftSum + max(solve(l, m), solve(m + 1, r)));
+                leftSum + max(solve(l, m), solve(m + 1, r)));
         }
         return dp[l][r] = ans;
     }
