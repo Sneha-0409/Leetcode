@@ -88,6 +88,7 @@
 | [0796-rotate-string](https://github.com/Sneha-0409/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-0409/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sneha-0409/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -113,6 +114,7 @@
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sneha-0409/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-0409/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
@@ -130,6 +132,7 @@
 | ------- |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
+| [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sneha-0409/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -213,6 +216,7 @@
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
+| [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
 |  |
