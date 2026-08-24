@@ -23,6 +23,7 @@
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-0409/Leetcode/tree/master/1480-running-sum-of-1d-array) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Sneha-0409/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Sneha-0409/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-0409/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
@@ -113,6 +114,7 @@
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
@@ -180,6 +182,7 @@
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sneha-0409/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-0409/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
 | ------- |
@@ -202,6 +205,7 @@
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 ## Recursion
 |  |
@@ -216,6 +220,7 @@
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 ## Minimax
@@ -224,6 +229,7 @@
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 ## Zero-Sum Game
 |  |
@@ -231,6 +237,7 @@
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
 | [1510-stone-game-iv](https://github.com/Sneha-0409/Leetcode/tree/master/1510-stone-game-iv) |
+| [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 ## Depth-First Search
 |  |
