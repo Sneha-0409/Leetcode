@@ -3,6 +3,7 @@
 ## Array
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -172,6 +173,7 @@
 ## Hash Table
 |  |
 | ------- |
+| [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
