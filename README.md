@@ -4,6 +4,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
+| [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -70,6 +71,7 @@
 ## Two Pointers
 |  |
 | ------- |
+| [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
 | [3734-lexicographically-smallest-palindromic-permutation-greater-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/3734-lexicographically-smallest-palindromic-permutation-greater-than-target) |
