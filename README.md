@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-0409/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
+| [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
@@ -82,11 +83,13 @@
 ## Binary Search
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-0409/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 ## Sorting
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
 | [1200-minimum-absolute-difference](https://github.com/Sneha-0409/Leetcode/tree/master/1200-minimum-absolute-difference) |
@@ -124,6 +127,7 @@
 ## Math
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
@@ -180,6 +184,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
+| [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
@@ -218,6 +223,7 @@
 ## Bit Manipulation
 |  |
 | ------- |
+| [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-0409/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
