@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-0409/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
 | [0136-single-number](https://github.com/Sneha-0409/Leetcode/tree/master/0136-single-number) |
+| [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -91,6 +92,7 @@
 ## Sorting
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
@@ -187,6 +189,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
+| [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -211,6 +214,7 @@
 ## Counting Sort
 |  |
 | ------- |
+| [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 | [3016-minimum-number-of-pushes-to-type-word-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3016-minimum-number-of-pushes-to-type-word-ii) |
@@ -337,4 +341,12 @@
 |  |
 | ------- |
 | [2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points](https://github.com/Sneha-0409/Leetcode/tree/master/2058-find-the-minimum-and-maximum-number-of-nodes-between-critical-points) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
+## Boyer–Moore Majority Vote Algorithm
+|  |
+| ------- |
+| [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 <!---LeetCode Topics End-->
