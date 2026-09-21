@@ -6,6 +6,7 @@
 | [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-0409/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
+| [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Sneha-0409/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
@@ -134,6 +135,7 @@
 ## Math
 |  |
 | ------- |
+| [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
