@@ -112,6 +112,7 @@
 ## String
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sneha-0409/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sneha-0409/Leetcode/tree/master/0013-roman-to-integer) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0796-rotate-string](https://github.com/Sneha-0409/Leetcode/tree/master/0796-rotate-string) |
@@ -138,6 +139,7 @@
 ## Math
 |  |
 | ------- |
+| [0012-integer-to-roman](https://github.com/Sneha-0409/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sneha-0409/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
@@ -198,6 +200,7 @@
 |  |
 | ------- |
 | [0001-two-sum](https://github.com/Sneha-0409/Leetcode/tree/master/0001-two-sum) |
+| [0012-integer-to-roman](https://github.com/Sneha-0409/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sneha-0409/Leetcode/tree/master/0013-roman-to-integer) |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
