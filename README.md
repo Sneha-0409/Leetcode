@@ -115,6 +115,7 @@
 | ------- |
 | [0012-integer-to-roman](https://github.com/Sneha-0409/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sneha-0409/Leetcode/tree/master/0013-roman-to-integer) |
+| [0020-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0020-valid-parentheses) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
 | [0038-count-and-say](https://github.com/Sneha-0409/Leetcode/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
@@ -140,6 +141,7 @@
 ## Stack
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0020-valid-parentheses) |
 | [1021-remove-outermost-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -387,6 +389,7 @@
 ## Bracket Sequences
 |  |
 | ------- |
+| [0020-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0020-valid-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
