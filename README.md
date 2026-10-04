@@ -122,6 +122,7 @@
 | [0038-count-and-say](https://github.com/Sneha-0409/Leetcode/tree/master/0038-count-and-say) |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0796-rotate-string](https://github.com/Sneha-0409/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -145,6 +146,7 @@
 | ------- |
 | [0020-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0020-valid-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Math
@@ -183,6 +185,7 @@
 ## Greedy
 |  |
 | ------- |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
@@ -274,6 +277,7 @@
 | [0022-generate-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0032-longest-valid-parentheses) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1406-stone-game-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1406-stone-game-iii) |
@@ -398,6 +402,7 @@
 | [0020-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0020-valid-parentheses) |
 | [0022-generate-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 ## Tree
 |  |
