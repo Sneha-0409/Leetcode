@@ -41,6 +41,7 @@
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 | [2091-removing-minimum-and-maximum-from-array](https://github.com/Sneha-0409/Leetcode/tree/master/2091-removing-minimum-and-maximum-from-array) |
 | [2213-longest-substring-of-one-repeating-character](https://github.com/Sneha-0409/Leetcode/tree/master/2213-longest-substring-of-one-repeating-character) |
+| [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sneha-0409/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [2948-make-lexicographically-smallest-array-by-swapping-elements](https://github.com/Sneha-0409/Leetcode/tree/master/2948-make-lexicographically-smallest-array-by-swapping-elements) |
@@ -79,6 +80,7 @@
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sneha-0409/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Sneha-0409/Leetcode/tree/master/1920-build-array-from-permutation) |
+| [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [3069-distribute-elements-into-two-arrays-i](https://github.com/Sneha-0409/Leetcode/tree/master/3069-distribute-elements-into-two-arrays-i) |
 | [3498-reverse-degree-of-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/3498-reverse-degree-of-a-string) |
 | [3701-compute-alternating-sum](https://github.com/Sneha-0409/Leetcode/tree/master/3701-compute-alternating-sum) |
@@ -94,6 +96,7 @@
 | [0283-move-zeroes](https://github.com/Sneha-0409/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sneha-0409/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
 | [3302-find-the-lexicographically-smallest-valid-sequence](https://github.com/Sneha-0409/Leetcode/tree/master/3302-find-the-lexicographically-smallest-valid-sequence) |
