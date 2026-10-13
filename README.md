@@ -22,6 +22,7 @@
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
+| [1089-duplicate-zeros](https://github.com/Sneha-0409/Leetcode/tree/master/1089-duplicate-zeros) |
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Sneha-0409/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -96,6 +97,7 @@
 | [0283-move-zeroes](https://github.com/Sneha-0409/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0876-middle-of-the-linked-list) |
+| [1089-duplicate-zeros](https://github.com/Sneha-0409/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sneha-0409/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
