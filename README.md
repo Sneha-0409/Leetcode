@@ -9,6 +9,7 @@
 | [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
 | [0136-single-number](https://github.com/Sneha-0409/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
+| [0189-rotate-array](https://github.com/Sneha-0409/Leetcode/tree/master/0189-rotate-array) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
@@ -87,6 +88,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-0409/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
 | [0028-find-the-index-of-the-first-occurrence-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0028-find-the-index-of-the-first-occurrence-in-a-string) |
+| [0189-rotate-array](https://github.com/Sneha-0409/Leetcode/tree/master/0189-rotate-array) |
 | [0234-palindrome-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0876-middle-of-the-linked-list) |
@@ -165,6 +167,7 @@
 | [0012-integer-to-roman](https://github.com/Sneha-0409/Leetcode/tree/master/0012-integer-to-roman) |
 | [0013-roman-to-integer](https://github.com/Sneha-0409/Leetcode/tree/master/0013-roman-to-integer) |
 | [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
+| [0189-rotate-array](https://github.com/Sneha-0409/Leetcode/tree/master/0189-rotate-array) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
