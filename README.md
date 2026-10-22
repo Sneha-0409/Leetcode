@@ -22,6 +22,7 @@
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sneha-0409/Leetcode/tree/master/0682-baseball-game) |
+| [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
@@ -156,6 +157,7 @@
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
+| [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0796-rotate-string](https://github.com/Sneha-0409/Leetcode/tree/master/0796-rotate-string) |
 | [1021-remove-outermost-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
@@ -261,6 +263,7 @@
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
+| [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sneha-0409/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sneha-0409/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
