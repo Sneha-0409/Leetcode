@@ -7,6 +7,7 @@
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Sneha-0409/Leetcode/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Sneha-0409/Leetcode/tree/master/0027-remove-element) |
 | [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
+| [0119-pascals-triangle-ii](https://github.com/Sneha-0409/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0136-single-number](https://github.com/Sneha-0409/Leetcode/tree/master/0136-single-number) |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0189-rotate-array](https://github.com/Sneha-0409/Leetcode/tree/master/0189-rotate-array) |
@@ -324,6 +325,7 @@
 | ------- |
 | [0022-generate-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0022-generate-parentheses) |
 | [0032-longest-valid-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/0032-longest-valid-parentheses) |
+| [0119-pascals-triangle-ii](https://github.com/Sneha-0409/Leetcode/tree/master/0119-pascals-triangle-ii) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
