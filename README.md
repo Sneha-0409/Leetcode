@@ -28,6 +28,7 @@
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
 | [1089-duplicate-zeros](https://github.com/Sneha-0409/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1200-minimum-absolute-difference](https://github.com/Sneha-0409/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
@@ -134,6 +135,7 @@
 | [0506-relative-ranks](https://github.com/Sneha-0409/Leetcode/tree/master/0506-relative-ranks) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
 | [1200-minimum-absolute-difference](https://github.com/Sneha-0409/Leetcode/tree/master/1200-minimum-absolute-difference) |
 | [1464-maximum-product-of-two-elements-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/1464-maximum-product-of-two-elements-in-an-array) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sneha-0409/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
@@ -265,6 +267,7 @@
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
 | [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
+| [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sneha-0409/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sneha-0409/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
@@ -289,6 +292,7 @@
 | ------- |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
+| [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
 | [2037-minimum-number-of-moves-to-seat-everyone](https://github.com/Sneha-0409/Leetcode/tree/master/2037-minimum-number-of-moves-to-seat-everyone) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sneha-0409/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -469,4 +473,12 @@
 |  |
 | ------- |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
+## Quicksort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
+## Bubble Sort
+|  |
+| ------- |
+| [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
 <!---LeetCode Topics End-->
