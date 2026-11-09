@@ -160,6 +160,7 @@
 | [0058-length-of-last-word](https://github.com/Sneha-0409/Leetcode/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
+| [0383-ransom-note](https://github.com/Sneha-0409/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
 | [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
@@ -267,6 +268,7 @@
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
 | [0217-contains-duplicate](https://github.com/Sneha-0409/Leetcode/tree/master/0217-contains-duplicate) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
+| [0383-ransom-note](https://github.com/Sneha-0409/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0448-find-all-numbers-disappeared-in-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/0448-find-all-numbers-disappeared-in-an-array) |
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
@@ -296,6 +298,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
+| [0383-ransom-note](https://github.com/Sneha-0409/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
 | [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
