@@ -112,6 +112,7 @@
 | [0234-palindrome-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0234-palindrome-linked-list) |
 | [0283-move-zeroes](https://github.com/Sneha-0409/Leetcode/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Sneha-0409/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -162,6 +163,7 @@
 | [0058-length-of-last-word](https://github.com/Sneha-0409/Leetcode/tree/master/0058-length-of-last-word) |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
 | [0344-reverse-string](https://github.com/Sneha-0409/Leetcode/tree/master/0344-reverse-string) |
+| [0345-reverse-vowels-of-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0383-ransom-note](https://github.com/Sneha-0409/Leetcode/tree/master/0383-ransom-note) |
 | [0387-first-unique-character-in-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0387-first-unique-character-in-a-string) |
 | [0678-valid-parenthesis-string](https://github.com/Sneha-0409/Leetcode/tree/master/0678-valid-parenthesis-string) |
