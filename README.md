@@ -211,6 +211,7 @@
 | [0066-plus-one](https://github.com/Sneha-0409/Leetcode/tree/master/0066-plus-one) |
 | [0189-rotate-array](https://github.com/Sneha-0409/Leetcode/tree/master/0189-rotate-array) |
 | [0202-happy-number](https://github.com/Sneha-0409/Leetcode/tree/master/0202-happy-number) |
+| [0263-ugly-number](https://github.com/Sneha-0409/Leetcode/tree/master/0263-ugly-number) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0486-predict-the-winner](https://github.com/Sneha-0409/Leetcode/tree/master/0486-predict-the-winner) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
