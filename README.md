@@ -225,6 +225,7 @@
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2029-stone-game-ix](https://github.com/Sneha-0409/Leetcode/tree/master/2029-stone-game-ix) |
+| [2520-count-the-digits-that-divide-a-number](https://github.com/Sneha-0409/Leetcode/tree/master/2520-count-the-digits-that-divide-a-number) |
 | [3014-minimum-number-of-pushes-to-type-word-i](https://github.com/Sneha-0409/Leetcode/tree/master/3014-minimum-number-of-pushes-to-type-word-i) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-0409/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3190-find-minimum-operations-to-make-all-elements-divisible-by-three](https://github.com/Sneha-0409/Leetcode/tree/master/3190-find-minimum-operations-to-make-all-elements-divisible-by-three) |
