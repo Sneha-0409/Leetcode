@@ -123,6 +123,7 @@
 | [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Sneha-0409/Leetcode/tree/master/1089-duplicate-zeros) |
+| [1768-merge-strings-alternately](https://github.com/Sneha-0409/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
 | [2511-maximum-enemy-forts-that-can-be-captured](https://github.com/Sneha-0409/Leetcode/tree/master/2511-maximum-enemy-forts-that-can-be-captured) |
 | [2824-count-pairs-whose-sum-is-less-than-target](https://github.com/Sneha-0409/Leetcode/tree/master/2824-count-pairs-whose-sum-is-less-than-target) |
@@ -184,6 +185,7 @@
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sneha-0409/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
 | [1763-longest-nice-substring](https://github.com/Sneha-0409/Leetcode/tree/master/1763-longest-nice-substring) |
+| [1768-merge-strings-alternately](https://github.com/Sneha-0409/Leetcode/tree/master/1768-merge-strings-alternately) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-0409/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
