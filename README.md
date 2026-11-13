@@ -183,6 +183,7 @@
 | [1021-remove-outermost-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1021-remove-outermost-parentheses) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sneha-0409/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1614-maximum-nesting-depth-of-the-parentheses](https://github.com/Sneha-0409/Leetcode/tree/master/1614-maximum-nesting-depth-of-the-parentheses) |
+| [1763-longest-nice-substring](https://github.com/Sneha-0409/Leetcode/tree/master/1763-longest-nice-substring) |
 | [1903-largest-odd-number-in-string](https://github.com/Sneha-0409/Leetcode/tree/master/1903-largest-odd-number-in-string) |
 | [1927-sum-game](https://github.com/Sneha-0409/Leetcode/tree/master/1927-sum-game) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-0409/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -298,6 +299,7 @@
 | [1122-relative-sort-array](https://github.com/Sneha-0409/Leetcode/tree/master/1122-relative-sort-array) |
 | [1160-find-words-that-can-be-formed-by-characters](https://github.com/Sneha-0409/Leetcode/tree/master/1160-find-words-that-can-be-formed-by-characters) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/Sneha-0409/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sneha-0409/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [2996-smallest-missing-integer-greater-than-sequential-prefix-sum](https://github.com/Sneha-0409/Leetcode/tree/master/2996-smallest-missing-integer-greater-than-sequential-prefix-sum) |
 | [3005-count-elements-with-maximum-frequency](https://github.com/Sneha-0409/Leetcode/tree/master/3005-count-elements-with-maximum-frequency) |
@@ -347,6 +349,7 @@
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
 | [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
+| [1763-longest-nice-substring](https://github.com/Sneha-0409/Leetcode/tree/master/1763-longest-nice-substring) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-0409/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
 | [3514-number-of-unique-xor-triplets-ii](https://github.com/Sneha-0409/Leetcode/tree/master/3514-number-of-unique-xor-triplets-ii) |
@@ -449,6 +452,7 @@
 | ------- |
 | [0219-contains-duplicate-ii](https://github.com/Sneha-0409/Leetcode/tree/master/0219-contains-duplicate-ii) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
+| [1763-longest-nice-substring](https://github.com/Sneha-0409/Leetcode/tree/master/1763-longest-nice-substring) |
 | [2904-shortest-and-lexicographically-smallest-beautiful-string](https://github.com/Sneha-0409/Leetcode/tree/master/2904-shortest-and-lexicographically-smallest-beautiful-string) |
 | [2958-length-of-longest-subarray-with-at-most-k-frequency](https://github.com/Sneha-0409/Leetcode/tree/master/2958-length-of-longest-subarray-with-at-most-k-frequency) |
 | [3090-maximum-length-substring-with-two-occurrences](https://github.com/Sneha-0409/Leetcode/tree/master/3090-maximum-length-substring-with-two-occurrences) |
@@ -474,6 +478,7 @@
 |  |
 | ------- |
 | [0169-majority-element](https://github.com/Sneha-0409/Leetcode/tree/master/0169-majority-element) |
+| [1763-longest-nice-substring](https://github.com/Sneha-0409/Leetcode/tree/master/1763-longest-nice-substring) |
 ## Boyer–Moore Majority Vote Algorithm
 |  |
 | ------- |
