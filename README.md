@@ -25,6 +25,7 @@
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sneha-0409/Leetcode/tree/master/0682-baseball-game) |
 | [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
+| [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1051-height-checker](https://github.com/Sneha-0409/Leetcode/tree/master/1051-height-checker) |
@@ -86,6 +87,7 @@
 | ------- |
 | [0463-island-perimeter](https://github.com/Sneha-0409/Leetcode/tree/master/0463-island-perimeter) |
 | [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
+| [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1672-richest-customer-wealth](https://github.com/Sneha-0409/Leetcode/tree/master/1672-richest-customer-wealth) |
 | [3568-minimum-moves-to-clean-the-classroom](https://github.com/Sneha-0409/Leetcode/tree/master/3568-minimum-moves-to-clean-the-classroom) |
@@ -94,6 +96,7 @@
 | ------- |
 | [0566-reshape-the-matrix](https://github.com/Sneha-0409/Leetcode/tree/master/0566-reshape-the-matrix) |
 | [0682-baseball-game](https://github.com/Sneha-0409/Leetcode/tree/master/0682-baseball-game) |
+| [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [1260-shift-2d-grid](https://github.com/Sneha-0409/Leetcode/tree/master/1260-shift-2d-grid) |
 | [1389-create-target-array-in-the-given-order](https://github.com/Sneha-0409/Leetcode/tree/master/1389-create-target-array-in-the-given-order) |
 | [1920-build-array-from-permutation](https://github.com/Sneha-0409/Leetcode/tree/master/1920-build-array-from-permutation) |
@@ -117,6 +120,7 @@
 | [0345-reverse-vowels-of-a-string](https://github.com/Sneha-0409/Leetcode/tree/master/0345-reverse-vowels-of-a-string) |
 | [0541-reverse-string-ii](https://github.com/Sneha-0409/Leetcode/tree/master/0541-reverse-string-ii) |
 | [0557-reverse-words-in-a-string-iii](https://github.com/Sneha-0409/Leetcode/tree/master/0557-reverse-words-in-a-string-iii) |
+| [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [0876-middle-of-the-linked-list](https://github.com/Sneha-0409/Leetcode/tree/master/0876-middle-of-the-linked-list) |
 | [1089-duplicate-zeros](https://github.com/Sneha-0409/Leetcode/tree/master/1089-duplicate-zeros) |
 | [2460-apply-operations-to-an-array](https://github.com/Sneha-0409/Leetcode/tree/master/2460-apply-operations-to-an-array) |
@@ -341,6 +345,7 @@
 | ------- |
 | [0136-single-number](https://github.com/Sneha-0409/Leetcode/tree/master/0136-single-number) |
 | [0268-missing-number](https://github.com/Sneha-0409/Leetcode/tree/master/0268-missing-number) |
+| [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [1386-cinema-seat-allocation](https://github.com/Sneha-0409/Leetcode/tree/master/1386-cinema-seat-allocation) |
 | [3116-kth-smallest-amount-with-single-denomination-combination](https://github.com/Sneha-0409/Leetcode/tree/master/3116-kth-smallest-amount-with-single-denomination-combination) |
 | [3513-number-of-unique-xor-triplets-i](https://github.com/Sneha-0409/Leetcode/tree/master/3513-number-of-unique-xor-triplets-i) |
