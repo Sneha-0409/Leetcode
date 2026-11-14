@@ -25,6 +25,7 @@
 | [0575-distribute-candies](https://github.com/Sneha-0409/Leetcode/tree/master/0575-distribute-candies) |
 | [0628-maximum-product-of-three-numbers](https://github.com/Sneha-0409/Leetcode/tree/master/0628-maximum-product-of-three-numbers) |
 | [0682-baseball-game](https://github.com/Sneha-0409/Leetcode/tree/master/0682-baseball-game) |
+| [0724-find-pivot-index](https://github.com/Sneha-0409/Leetcode/tree/master/0724-find-pivot-index) |
 | [0748-shortest-completing-word](https://github.com/Sneha-0409/Leetcode/tree/master/0748-shortest-completing-word) |
 | [0832-flipping-an-image](https://github.com/Sneha-0409/Leetcode/tree/master/0832-flipping-an-image) |
 | [0877-stone-game](https://github.com/Sneha-0409/Leetcode/tree/master/0877-stone-game) |
@@ -346,6 +347,7 @@
 ## Prefix Sum
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Sneha-0409/Leetcode/tree/master/0724-find-pivot-index) |
 | [1004-max-consecutive-ones-iii](https://github.com/Sneha-0409/Leetcode/tree/master/1004-max-consecutive-ones-iii) |
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sneha-0409/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
