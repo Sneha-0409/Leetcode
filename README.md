@@ -48,6 +48,7 @@
 | [1550-three-consecutive-odds](https://github.com/Sneha-0409/Leetcode/tree/master/1550-three-consecutive-odds) |
 | [1563-stone-game-v](https://github.com/Sneha-0409/Leetcode/tree/master/1563-stone-game-v) |
 | [1672-richest-customer-wealth](https://github.com/Sneha-0409/Leetcode/tree/master/1672-richest-customer-wealth) |
+| [1732-find-the-highest-altitude](https://github.com/Sneha-0409/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 | [1920-build-array-from-permutation](https://github.com/Sneha-0409/Leetcode/tree/master/1920-build-array-from-permutation) |
 | [2011-final-value-of-variable-after-performing-operations](https://github.com/Sneha-0409/Leetcode/tree/master/2011-final-value-of-variable-after-performing-operations) |
@@ -352,6 +353,7 @@
 | [1140-stone-game-ii](https://github.com/Sneha-0409/Leetcode/tree/master/1140-stone-game-ii) |
 | [1413-minimum-value-to-get-positive-step-by-step-sum](https://github.com/Sneha-0409/Leetcode/tree/master/1413-minimum-value-to-get-positive-step-by-step-sum) |
 | [1480-running-sum-of-1d-array](https://github.com/Sneha-0409/Leetcode/tree/master/1480-running-sum-of-1d-array) |
+| [1732-find-the-highest-altitude](https://github.com/Sneha-0409/Leetcode/tree/master/1732-find-the-highest-altitude) |
 | [1872-stone-game-viii](https://github.com/Sneha-0409/Leetcode/tree/master/1872-stone-game-viii) |
 ## Bit Manipulation
 |  |
