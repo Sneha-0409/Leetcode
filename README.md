@@ -537,11 +537,13 @@
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sneha-0409/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sneha-0409/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Binary Tree
 |  |
 | ------- |
 | [0104-maximum-depth-of-binary-tree](https://github.com/Sneha-0409/Leetcode/tree/master/0104-maximum-depth-of-binary-tree) |
 | [0257-binary-tree-paths](https://github.com/Sneha-0409/Leetcode/tree/master/0257-binary-tree-paths) |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sneha-0409/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 ## Quicksort
 |  |
 | ------- |
@@ -566,4 +568,8 @@
 |  |
 | ------- |
 | [1071-greatest-common-divisor-of-strings](https://github.com/Sneha-0409/Leetcode/tree/master/1071-greatest-common-divisor-of-strings) |
+## Binary Search Tree
+|  |
+| ------- |
+| [0700-search-in-a-binary-search-tree](https://github.com/Sneha-0409/Leetcode/tree/master/0700-search-in-a-binary-search-tree) |
 <!---LeetCode Topics End-->
